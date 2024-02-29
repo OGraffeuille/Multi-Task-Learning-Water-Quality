@@ -5,3 +5,7 @@ Tested with
 - Python 3.8.5
 - Numpy 1.22.4
 - Pytorch 1.7.1
+
+Includes
+- Implementation of MLP, MLP and MDN algorithms (which must be trained)
+- Jupyter Notebook demos of running experiments and analysing performance
