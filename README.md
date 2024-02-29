@@ -7,5 +7,5 @@ Tested with
 - Pytorch 1.7.1
 
 Includes
-- Implementation of MLP, MLP and MDN algorithms (which must be trained)
+- Implementation of MLP, MLP and MDN algorithms (these do not come pre-trained)
 - Jupyter Notebook demos of running experiments and analysing performance
